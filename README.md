@@ -20,7 +20,7 @@ pip3 install python-dateutil
 ```
 
 ## Demo
-Example 1 |  Example 2 | Example 2 |
+Example 1 |  Example 2 | Example 3 |
 :-------------------------:|:-------------------------:|:-------------------------:
 <img width="240" alt="Screenshot 2021-09-21 at 20 34 21" src="https://user-images.githubusercontent.com/64978825/134236279-f1f06537-5612-4edf-98e2-54b0c40e09e9.png">|<img width="240" alt="Screenshot 2021-09-21 at 20 35 09" src="https://user-images.githubusercontent.com/64978825/134236284-0b567d07-0822-4a21-8cd8-a2fde1e18fc0.png">|<img width="240" alt="Screenshot 2021-09-21 at 20 35 56" src="https://user-images.githubusercontent.com/64978825/134236445-59c8fc1e-f8d4-4637-bd67-90ab92dbfb2b.png">
 
