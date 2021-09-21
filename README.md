@@ -31,7 +31,7 @@ About
 # Todo
 - Finish setting up the `setup.py` file so that standalone macOS app can be created without running the `main.py` script
 
-# Sources
+# References
 [1]. https://camillovisini.com/article/create-macos-menu-bar-app-pomodoro/
 
 [2]. https://github.com/jaredks/rumps/blob/master/examples/example_simple.py
