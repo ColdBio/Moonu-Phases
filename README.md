@@ -14,10 +14,6 @@ pip3 install -U py2app
 ```python
 pip3 install numpy
 ```
-### Dateutils
-```python
-pip3 install python-dateutil
-```
 
 ## Demo
 Example 1 |  Example 2 | Example 3 |
