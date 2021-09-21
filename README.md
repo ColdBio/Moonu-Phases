@@ -1,2 +1,2 @@
 ## Moonu Phases
-🌔 A simple macOS menu bar application that show the current moon phase 🌒
+🌔 A simple macOS menu bar application that shows the current moon phase 🌒
