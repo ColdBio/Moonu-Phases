@@ -28,6 +28,9 @@ About
 :-------------------------:
 <img width="318" alt="Screenshot 2021-09-21 at 20 19 26" src="https://user-images.githubusercontent.com/64978825/134236435-26f6dea3-5a77-4096-bcde-567e9d0d592b.png">|
 
+# Todo
+- Finish setting up the `setup.py` file so that standalone macOS app can be created without running the `main.py` script
+
 # Sources
 [1]. https://camillovisini.com/article/create-macos-menu-bar-app-pomodoro/
 
